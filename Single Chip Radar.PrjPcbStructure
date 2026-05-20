@@ -1,0 +1,15 @@
+Record=TopLevelDocument|FileName=AWR2243_Decoupling_Caps.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=AWR2243_Decoupling_Caps.SchDoc|FileName=AWR2243_DUT.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=AWR2243_Decoupling_Caps.SchDoc|FileName=AWR2243_ExPWR_RST_LEDs.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=AWR2243_Decoupling_Caps.SchDoc|FileName=AWR2243_LC_Filtering.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=AWR2243_Decoupling_Caps.SchDoc|FileName=AWR2243_PMIC.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=AWR2243_Decoupling_Caps.SchDoc|FileName=AWR2243_QSPI_Flash.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=AWR2243_Decoupling_Caps.SchDoc|FileName=Camera-AWR.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=AWR2243_Decoupling_Caps.SchDoc|FileName=Clock-Gen.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=AWR2243_Decoupling_Caps.SchDoc|FileName=DDR4.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=AWR2243_Decoupling_Caps.SchDoc|FileName=EVK External Connector.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=AWR2243_Decoupling_Caps.SchDoc|FileName=FPGA Config_Power.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=AWR2243_Decoupling_Caps.SchDoc|FileName=FPGA IO.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=AWR2243_Decoupling_Caps.SchDoc|FileName=Power-1.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=AWR2243_Decoupling_Caps.SchDoc|FileName=Power-2.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=AWR2243_Decoupling_Caps.SchDoc|FileName=SFP_10GbE.SchDoc|SheetNumber= 
